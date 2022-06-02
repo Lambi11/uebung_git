@@ -1,1 +1,0 @@
-print('Joshua ist der Beste')
